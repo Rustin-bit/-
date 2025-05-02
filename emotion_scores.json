@@ -1,0 +1,794 @@
+[
+  {
+    "id": 1,
+    "title": "Longmen",
+    "polarity": 0.05,
+    "label": "Neutral"
+  },
+  {
+    "id": 2,
+    "title": "Another on Zheng's Eastern Pavilion",
+    "polarity": 0.3444444444444445,
+    "label": "Positive"
+  },
+  {
+    "id": 3,
+    "title": "Respectfully Sent to My Senior Wei [Ji], Metropolitan Governor in He'nan",
+    "polarity": 0.06017316017316016,
+    "label": "Neutral"
+  },
+  {
+    "id": 4,
+    "title": "Song of Leyou Park",
+    "polarity": 0.03509700176366843,
+    "label": "Neutral"
+  },
+  {
+    "id": 5,
+    "title": "Three Stanzas on the Twisting River (each stanza has five lines) II",
+    "polarity": -0.012499999999999997,
+    "label": "Neutral"
+  },
+  {
+    "id": 6,
+    "title": "Three Stanzas on the Twisting River (each stanza has five lines) III",
+    "polarity": 0.08730158730158728,
+    "label": "Neutral"
+  },
+  {
+    "id": 7,
+    "title": "Three Stanzas on the Twisting River (each stanza has five lines) I",
+    "polarity": 0.22999999999999998,
+    "label": "Positive"
+  },
+  {
+    "id": 8,
+    "title": "Expressing What Has Stirred Me ",
+    "polarity": 0.13472222222222222,
+    "label": "Positive"
+  },
+  {
+    "id": 9,
+    "title": "Moonlit Night",
+    "polarity": -0.13999999999999999,
+    "label": "Negative"
+  },
+  {
+    "id": 10,
+    "title": "View in Spring",
+    "polarity": 0.049999999999999996,
+    "label": "Neutral"
+  },
+  {
+    "id": 11,
+    "title": "Getting a Letter from Home",
+    "polarity": 0.07964646464646466,
+    "label": "Neutral"
+  },
+  {
+    "id": 12,
+    "title": "Getting News of My Younger Brother ",
+    "polarity": 0.10208333333333332,
+    "label": "Positive"
+  },
+  {
+    "id": 13,
+    "title": "An Account of My Concerns ",
+    "polarity": 0.022864701436130012,
+    "label": "Neutral"
+  },
+  {
+    "id": 14,
+    "title": "Returning Home On Foot: A Ballad",
+    "polarity": 0.09795918367346938,
+    "label": "Neutral"
+  },
+  {
+    "id": 15,
+    "title": "On New Year's Day, To my Sister Married into the Wei's ",
+    "polarity": -0.04090909090909092,
+    "label": "Neutral"
+  },
+  {
+    "id": 16,
+    "title": "Leaving the Town",
+    "polarity": -0.10999999999999999,
+    "label": "Negative"
+  },
+  {
+    "id": 17,
+    "title": "Parted When Getting Old",
+    "polarity": 0.022949735449735453,
+    "label": "Neutral"
+  },
+  {
+    "id": 18,
+    "title": "East Tower",
+    "polarity": 0.0,
+    "label": "Neutral"
+  },
+  {
+    "id": 19,
+    "title": "Setting Out from Tonggu County",
+    "polarity": -0.09074074074074075,
+    "label": "Neutral"
+  },
+  {
+    "id": 20,
+    "title": "Converging Waters Crossing",
+    "polarity": -0.011235119047619046,
+    "label": "Neutral"
+  },
+  {
+    "id": 21,
+    "title": "Written after the Beginning of Autumn",
+    "polarity": -0.07333333333333333,
+    "label": "Neutral"
+  },
+  {
+    "id": 22,
+    "title": "Songs Written While Residing in Tonggu County in the Qianyuan Reign II",
+    "polarity": -0.055555555555555566,
+    "label": "Neutral"
+  },
+  {
+    "id": 23,
+    "title": "Songs Written While Residing in Tonggu County in the Qianyuan Reign VI",
+    "polarity": -0.14444444444444443,
+    "label": "Negative"
+  },
+  {
+    "id": 24,
+    "title": "Songs Written While Residing in Tonggu County in the Qianyuan Reign VII",
+    "polarity": 0.03125000000000001,
+    "label": "Neutral"
+  },
+  {
+    "id": 25,
+    "title": "Songs Written While Residing in Tonggu County in the Qianyuan Reign III",
+    "polarity": -0.03958333333333333,
+    "label": "Neutral"
+  },
+  {
+    "id": 26,
+    "title": "Songs Written While Residing in Tonggu County in the Qianyuan Reign IV",
+    "polarity": 0.050833333333333335,
+    "label": "Neutral"
+  },
+  {
+    "id": 27,
+    "title": "Songs Written While Residing in Tonggu County in the Qianyuan Reign V",
+    "polarity": -0.10136363636363636,
+    "label": "Negative"
+  },
+  {
+    "id": 28,
+    "title": "Songs Written While Residing in Tonggu County in the Qianyuan Reign I",
+    "polarity": -0.15628306878306875,
+    "label": "Negative"
+  },
+  {
+    "id": 29,
+    "title": "Recalling My Brothers on a Moonlit Night ",
+    "polarity": 0.3060606060606061,
+    "label": "Positive"
+  },
+  {
+    "id": 30,
+    "title": "Regretting Parting",
+    "polarity": 0.13583333333333333,
+    "label": "Positive"
+  },
+  {
+    "id": 31,
+    "title": "Grieving over Autumn",
+    "polarity": 0.152,
+    "label": "Positive"
+  },
+  {
+    "id": 32,
+    "title": "Passing By Guo Yuanzhen, Duke of Dai's Former House ",
+    "polarity": 0.18269230769230774,
+    "label": "Positive"
+  },
+  {
+    "id": 33,
+    "title": "Composed in the Landscape, Fifteen Leagues Going South from Tongquan",
+    "polarity": 0.2280952380952381,
+    "label": "Positive"
+  },
+  {
+    "id": 34,
+    "title": "Setting Out Early from Shehong County, Composed on the South Road",
+    "polarity": -0.09484126984126982,
+    "label": "Neutral"
+  },
+  {
+    "id": 35,
+    "title": "Setting Out from Langzhong",
+    "polarity": -0.21071428571428574,
+    "label": "Negative"
+  },
+  {
+    "id": 36,
+    "title": "About to Go to Jingnan, I Send This to Li of Jianzhou on Parting ",
+    "polarity": 0.06216931216931217,
+    "label": "Neutral"
+  },
+  {
+    "id": 37,
+    "title": "Sent to Be Written on My Thatched Cottage beyond the River",
+    "polarity": 0.048382352941176474,
+    "label": "Neutral"
+  },
+  {
+    "id": 38,
+    "title": "The Double Ninth",
+    "polarity": -0.05,
+    "label": "Neutral"
+  },
+  {
+    "id": 39,
+    "title": "A Lament when the Coffin of ViceDirector Yan Wu was being Sent Home",
+    "polarity": -0.009999999999999998,
+    "label": "Neutral"
+  },
+  {
+    "id": 40,
+    "title": "Accompanying Deputy Zhang Holding a Parting Banquet in Huiyi Temple for Commander Cui of Jiazhou as He Sets Out for His Prefecture",
+    "polarity": -0.015198863636363632,
+    "label": "Neutral"
+  },
+  {
+    "id": 41,
+    "title": "Seeing Off Rectifier Wei on His Return to Chengdu ",
+    "polarity": 0.030000000000000006,
+    "label": "Neutral"
+  },
+  {
+    "id": 42,
+    "title": "Thatched Cottage",
+    "polarity": 0.15060317460317457,
+    "label": "Positive"
+  },
+  {
+    "id": 43,
+    "title": "Return in Spring",
+    "polarity": 0.15499999999999997,
+    "label": "Positive"
+  },
+  {
+    "id": 44,
+    "title": "Respectfully Sent on Parting From Ma of Bazhou",
+    "polarity": 0.049358974358974364,
+    "label": "Neutral"
+  },
+  {
+    "id": 45,
+    "title": "Returning Wild Geese",
+    "polarity": 0.13,
+    "label": "Positive"
+  },
+  {
+    "id": 46,
+    "title": "To the Mountain Man Sima: Twelve Couplets ",
+    "polarity": -0.10769230769230768,
+    "label": "Negative"
+  },
+  {
+    "id": 47,
+    "title": "Evening Cold",
+    "polarity": 0.07083333333333333,
+    "label": "Neutral"
+  },
+  {
+    "id": 48,
+    "title": "Broken Boat",
+    "polarity": 0.03783820346320346,
+    "label": "Neutral"
+  },
+  {
+    "id": 49,
+    "title": "A Pair of Swallows",
+    "polarity": -0.06999999999999999,
+    "label": "Neutral"
+  },
+  {
+    "id": 50,
+    "title": "Deck by the Water",
+    "polarity": 0.12219576719576718,
+    "label": "Positive"
+  },
+  {
+    "id": 51,
+    "title": "Seeing Off My Brother Ying On His Way to Qizhou I II III",
+    "polarity": -0.005283790283790285,
+    "label": "Neutral"
+  },
+  {
+    "id": 52,
+    "title": "Staying Overnight at Headquarters ",
+    "polarity": -0.013888888888888888,
+    "label": "Neutral"
+  },
+  {
+    "id": 53,
+    "title": "Traveler",
+    "polarity": -0.5,
+    "label": "Negative"
+  },
+  {
+    "id": 54,
+    "title": "Presented to Attendant Censor Wang Qi: forty couplets ",
+    "polarity": 0.051474977043158864,
+    "label": "Neutral"
+  },
+  {
+    "id": 55,
+    "title": "After the Solstice",
+    "polarity": 0.15,
+    "label": "Positive"
+  },
+  {
+    "id": 56,
+    "title": "From Langzhou Taking My Wife and Children Back to Shu; Traveling in the Mountains I II III",
+    "polarity": -0.034722222222222224,
+    "label": "Neutral"
+  },
+  {
+    "id": 57,
+    "title": "Parting from Chang, Summoned Gentleman ",
+    "polarity": 0.02960448642266823,
+    "label": "Neutral"
+  },
+  {
+    "id": 58,
+    "title": "Taking Leave of the Grave of Defender-in-Chief Fang\n",
+    "polarity": -0.0861111111111111,
+    "label": "Neutral"
+  },
+  {
+    "id": 59,
+    "title": "Spring Goes Far Away",
+    "polarity": 0.0642857142857143,
+    "label": "Neutral"
+  },
+  {
+    "id": 60,
+    "title": "\nThinking Back on My Lodgings by the Brocade River II",
+    "polarity": 0.09904761904761905,
+    "label": "Neutral"
+  },
+  {
+    "id": 61,
+    "title": "\nThinking Back on My Lodgings by the Brocade River I",
+    "polarity": -0.018333333333333333,
+    "label": "Neutral"
+  },
+  {
+    "id": 62,
+    "title": "Writing of My Feelings Traveling by Night",
+    "polarity": -0.14285714285714285,
+    "label": "Negative"
+  },
+  {
+    "id": 63,
+    "title": "Late Clearing",
+    "polarity": 0.006666666666666672,
+    "label": "Neutral"
+  },
+  {
+    "id": 64,
+    "title": "White Emperor",
+    "polarity": 0.07795918367346939,
+    "label": "Neutral"
+  },
+  {
+    "id": 65,
+    "title": "\nMy Fifth Younger Brother Du Feng Is Alone in Jiangzuo: In the Past Three or Four years I've Had No News of Him, and I Seek out a Messenger to Send These Two Poems II",
+    "polarity": -0.006878306878306884,
+    "label": "Neutral"
+  },
+  {
+    "id": 66,
+    "title": " My Fifth Younger Brother Du Feng Is Alone in Jiangzuo: In the Past Three or Four years I've Had No News of Him, and I Seek out a Messenger to Send These Two Poems I",
+    "polarity": -0.0951058201058201,
+    "label": "Neutral"
+  },
+  {
+    "id": 67,
+    "title": "Sunlight Cast Back",
+    "polarity": -0.0767857142857143,
+    "label": "Neutral"
+  },
+  {
+    "id": 68,
+    "title": "Sent to Cen of Jiazhou",
+    "polarity": 0.07867132867132867,
+    "label": "Neutral"
+  },
+  {
+    "id": 69,
+    "title": "Sent to Chang, Summoned Gentleman",
+    "polarity": -0.024489795918367346,
+    "label": "Neutral"
+  },
+  {
+    "id": 70,
+    "title": "Lodging As a Sojourner",
+    "polarity": -0.03001133786848072,
+    "label": "Neutral"
+  },
+  {
+    "id": 71,
+    "title": "Sojourner's Hall",
+    "polarity": 0.07151610644257703,
+    "label": "Neutral"
+  },
+  {
+    "id": 72,
+    "title": "Beginning of Spring",
+    "polarity": 0.15,
+    "label": "Positive"
+  },
+  {
+    "id": 73,
+    "title": "Autumn Wind II",
+    "polarity": 0.0066666666666666706,
+    "label": "Neutral"
+  },
+  {
+    "id": 74,
+    "title": "Autumn Wind I",
+    "polarity": 0.07222222222222222,
+    "label": "Neutral"
+  },
+  {
+    "id": 75,
+    "title": "Writing My Feelings in Kui on an Autumn Day, Respectfully Sent to Director Zheng and Li, Adviser to the Heir Apparent: One Hundred Couplets",
+    "polarity": 0.12768496935163604,
+    "label": "Positive"
+  },
+  {
+    "id": 76,
+    "title": "Stirred by Autumn VIII",
+    "polarity": 0.16666666666666666,
+    "label": "Positive"
+  },
+  {
+    "id": 77,
+    "title": "Stirred by Autumn II",
+    "polarity": -0.04166666666666665,
+    "label": "Neutral"
+  },
+  {
+    "id": 78,
+    "title": "Stirred by Autumn VI",
+    "polarity": 0.13166666666666668,
+    "label": "Positive"
+  },
+  {
+    "id": 79,
+    "title": "Stirred by Autumn IV",
+    "polarity": -0.18766233766233764,
+    "label": "Negative"
+  },
+  {
+    "id": 80,
+    "title": "Stirred by Autumn V",
+    "polarity": -0.06799999999999999,
+    "label": "Neutral"
+  },
+  {
+    "id": 81,
+    "title": "Stirred by Autumn I",
+    "polarity": -0.17333333333333334,
+    "label": "Negative"
+  },
+  {
+    "id": 82,
+    "title": "\nHeat II",
+    "polarity": -0.13111111111111112,
+    "label": "Negative"
+  },
+  {
+    "id": 83,
+    "title": "\nHeat III",
+    "polarity": 0.02291666666666667,
+    "label": "Neutral"
+  },
+  {
+    "id": 84,
+    "title": "\nHeat I",
+    "polarity": -0.08333333333333333,
+    "label": "Neutral"
+  },
+  {
+    "id": 85,
+    "title": "Spending the Night in a Pavilion by the River",
+    "polarity": 0.1819047619047619,
+    "label": "Positive"
+  },
+  {
+    "id": 86,
+    "title": "Observing Things in the Gorges",
+    "polarity": -0.02309523809523807,
+    "label": "Neutral"
+  },
+  {
+    "id": 87,
+    "title": "Presented to Librarian Li On Parting: Thirty Couplets",
+    "polarity": 0.1121002653260718,
+    "label": "Positive"
+  },
+  {
+    "id": 88,
+    "title": "The Middle of Night",
+    "polarity": 0.08814814814814816,
+    "label": "Neutral"
+  },
+  {
+    "id": 89,
+    "title": "Cuckoo",
+    "polarity": -0.05000000000000001,
+    "label": "Neutral"
+  },
+  {
+    "id": 90,
+    "title": "\nMoon on the Night of the Fifteenth of the Eighth Month II",
+    "polarity": 0.19791666666666669,
+    "label": "Positive"
+  },
+  {
+    "id": 91,
+    "title": "Moon on the Night of the Fifteenth of the Eighth Month I",
+    "polarity": 0.17407407407407413,
+    "label": "Positive"
+  },
+  {
+    "id": 92,
+    "title": "Parting From Li of the Palace Library Where He is Staying in Shixing Temple",
+    "polarity": 0.16428571428571428,
+    "label": "Positive"
+  },
+  {
+    "id": 93,
+    "title": "Climbing the Heights",
+    "polarity": -0.15203907203907205,
+    "label": "Negative"
+  },
+  {
+    "id": 94,
+    "title": "Moonlit Night at East Camp",
+    "polarity": -0.04489795918367347,
+    "label": "Neutral"
+  },
+  {
+    "id": 95,
+    "title": "Ballad of Tigertooth",
+    "polarity": -0.0688888888888889,
+    "label": "Neutral"
+  },
+  {
+    "id": 96,
+    "title": "River Plum",
+    "polarity": 0.2928571428571428,
+    "label": "Positive"
+  },
+  {
+    "id": 97,
+    "title": "\nMoving Into My Cottage II",
+    "polarity": 0.08666666666666667,
+    "label": "Neutral"
+  },
+  {
+    "id": 98,
+    "title": "Moving Into My Cottage III",
+    "polarity": -0.3244047619047619,
+    "label": "Negative"
+  },
+  {
+    "id": 99,
+    "title": "\nMoving Into My Cottage I",
+    "polarity": 0.14772727272727273,
+    "label": "Positive"
+  },
+  {
+    "id": 100,
+    "title": "\nClimbing White Emperor Castle II",
+    "polarity": 0.024074074074074064,
+    "label": "Neutral"
+  },
+  {
+    "id": 101,
+    "title": "\nClimbing White Emperor Castle I",
+    "polarity": 0.1132996632996633,
+    "label": "Positive"
+  },
+  {
+    "id": 102,
+    "title": "At Wu Mountain County Governor Tang of Fenzhou Holds a Parting Banquet, and Various Gentlemen Bring Ale and Musicians to See Me Off; I Dashed Off This Little Poem and Left It On the Wall",
+    "polarity": -0.08750000000000002,
+    "label": "Neutral"
+  },
+  {
+    "id": 103,
+    "title": " Climbing Yueyang Tower",
+    "polarity": -0.1568253968253968,
+    "label": "Negative"
+  },
+  {
+    "id": 104,
+    "title": "Getting On a Boat to Go Off to Hanyang",
+    "polarity": -0.09107142857142857,
+    "label": "Neutral"
+  },
+  {
+    "id": 105,
+    "title": "The Corner of the Earth",
+    "polarity": 0.0640625,
+    "label": "Neutral"
+  },
+  {
+    "id": 106,
+    "title": "Setting Out From Master Liu's Shore",
+    "polarity": -0.09,
+    "label": "Neutral"
+  },
+  {
+    "id": 107,
+    "title": "Adrift on the River",
+    "polarity": 0.041666666666666664,
+    "label": "Neutral"
+  },
+  {
+    "id": 108,
+    "title": " Another on the Same",
+    "polarity": 0.1875,
+    "label": "Positive"
+  },
+  {
+    "id": 109,
+    "title": "Wild Geese Returning in Migration\n",
+    "polarity": -0.049999999999999996,
+    "label": "Neutral"
+  },
+  {
+    "id": 110,
+    "title": "Yangzi and Han",
+    "polarity": 0.0,
+    "label": "Neutral"
+  },
+  {
+    "id": 111,
+    "title": "Long a Wayfarer",
+    "polarity": 0.0,
+    "label": "Neutral"
+  },
+  {
+    "id": 112,
+    "title": "A Mountain Inn",
+    "polarity": -0.15625,
+    "label": "Negative"
+  },
+  {
+    "id": 113,
+    "title": "Expressing What Stirred Me while Spending the Night on the Water: Respectfully Presented to Various Gentlemen",
+    "polarity": -0.04438237050306013,
+    "label": "Neutral"
+  },
+  {
+    "id": 114,
+    "title": "In Baxi Hearing that the Palace Has Been Retaken, Seeing Assistant Ban Off to the Capital I",
+    "polarity": 0.00408163265306123,
+    "label": "Neutral"
+  },
+  {
+    "id": 115,
+    "title": "\nIn Baxi Hearing that the Palace Has Been Retaken, Seeing Assistant Ban Off to the Capital II",
+    "polarity": 0.05555555555555556,
+    "label": "Neutral"
+  },
+  {
+    "id": 116,
+    "title": "Hearing the Reed-horn by Night",
+    "polarity": 0.015476190476190477,
+    "label": "Neutral"
+  },
+  {
+    "id": 117,
+    "title": "Another to My Two Sons",
+    "polarity": 0.029166666666666674,
+    "label": "Neutral"
+  },
+  {
+    "id": 118,
+    "title": "On New Year's Day, for Zongwu",
+    "polarity": -0.041428571428571426,
+    "label": "Neutral"
+  },
+  {
+    "id": 119,
+    "title": "In My Boat I Set Out From the Southern Bank of Jiangling; Respectfully Sent to the ViceGovernor Zheng Shen",
+    "polarity": 0.005059523809523815,
+    "label": "Neutral"
+  },
+  {
+    "id": 120,
+    "title": "Moonlight in My Boat Facing a Temple Near the Post Station ",
+    "polarity": -0.06000000000000001,
+    "label": "Neutral"
+  },
+  {
+    "id": 121,
+    "title": "In My Boat",
+    "polarity": -0.06666666666666667,
+    "label": "Neutral"
+  },
+  {
+    "id": 122,
+    "title": "Reaching Wan Isle",
+    "polarity": -0.004421768707482989,
+    "label": "Neutral"
+  },
+  {
+    "id": 123,
+    "title": "Sitting in the Official Pavilion in the Evening: A Playful Note to Sheriff Yan",
+    "polarity": 0.10333333333333335,
+    "label": "Positive"
+  },
+  {
+    "id": 124,
+    "title": "Dream of Return",
+    "polarity": 0.06805555555555555,
+    "label": "Neutral"
+  },
+  {
+    "id": 125,
+    "title": "On the Lake Seeing Off Prefect Jing On His Way to Guangling ",
+    "polarity": 0.0029166666666666694,
+    "label": "Neutral"
+  },
+  {
+    "id": 126,
+    "title": "Journeying South",
+    "polarity": -0.041071428571428564,
+    "label": "Neutral"
+  },
+  {
+    "id": 127,
+    "title": "Staying Over at White Sands Post Station",
+    "polarity": -3.96508223080413e-18,
+    "label": "Neutral"
+  },
+  {
+    "id": 128,
+    "title": "Spending the Night on Green Grass Lake ",
+    "polarity": -0.10000000000000002,
+    "label": "Negative"
+  },
+  {
+    "id": 129,
+    "title": "\nWritten on a Feast at Governor Wang's Residence II",
+    "polarity": -0.006249999999999992,
+    "label": "Neutral"
+  },
+  {
+    "id": 130,
+    "title": "Written on a Feast at Governor Wang's Residence I",
+    "polarity": -0.175,
+    "label": "Negative"
+  },
+  {
+    "id": 131,
+    "title": "Meeting Li Guinian in Jiangnan",
+    "polarity": 0.2416666666666667,
+    "label": "Positive"
+  },
+  {
+    "id": 132,
+    "title": "Old and Sick",
+    "polarity": -0.0898809523809524,
+    "label": "Neutral"
+  }
+]
